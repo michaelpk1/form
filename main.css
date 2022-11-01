@@ -1,0 +1,67 @@
+body{
+    background-color: gold;
+    
+}
+.red{
+    background-color: red;
+    margin-bottom: 40px;
+}
+  
+table{
+            
+    border-collapse: collapse;
+    color: black;
+    padding:10px;
+    font-size: 1em;
+    margin-top: 50px;
+
+}
+
+table, th, td{
+    border: 1px solid black;
+    
+}
+.input-page {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 17px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 33%;
+  }
+
+  .input-page1 {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 17px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 33%;
+    margin-top: 40px;
+  }
+  
+  .button,Button{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 15px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+    box-sizing: border-box;
+    margin-left: 33%;
+    background-color: blue;
+    color: white;
+    margin-top: 30px;
+    font-size: 1em;
+ }
+ ::placeholder{
+    color: black;
+ }
+
+ 
+ 
